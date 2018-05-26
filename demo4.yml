@@ -1,0 +1,12 @@
+---
+api_interface: "eth0"
+network_interface: "eth3"
+storage_interface: "eth2"
+port: 3214
+#time 单位秒
+time: 3
+control_ip:
+  - "192.168.160.73"
+  - "192.168.160.75"
+  - "10.10.1.73"
+  - "10.10.1.75"
